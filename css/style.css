@@ -1,0 +1,156 @@
+body {
+  margin-top: 90px; }
+
+  .btn-default{
+   
+  background-color: #0099ff;
+   
+  color:#FFF;
+   
+   
+  }
+
+  .button1 {
+    background-color: #0099ff00; 
+    color: white; 
+    border: 2px solid white;
+  }
+  
+  .button1:hover {
+    background-color: #3366cc;
+    color: white;
+  }
+
+.navbar {
+  box-shadow: 2px 2px 5px #0099ff;
+  opacity: 0.9;
+  background: #fff; }
+  .navbar .nav-item {
+    font-size: 1.4rem;
+    padding-right: 1.4rem; }
+
+#showcase {
+  position: relative;
+  background: url("../img/back.jpg");
+  min-height: 600px; }
+  #showcase .primary-overlay {
+    background: rgba(0, 153, 255, 0.2);
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%; }
+
+  .primary-overlay {
+      background: rgba(0, 153, 255, 0.2);
+      position: relative;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%; }
+
+#score {
+      background: rgba(0, 153, 255, 0.8);
+      min-height: 600px;
+       }
+
+.info-header {
+  width: 50%;
+  margin: auto;
+  border-bottom: 1px #ddd solid; }
+
+#authors img {
+  margin-top: -50px; }
+#authors .card:hover {
+  background: #0099ff;
+  color: #fff; }
+#authors .fab {
+  color: #fff; }
+
+@media (max-width: 768px) {
+  #showcase {
+    min-height: 500px; }
+    #showcase h1 {
+      font-size: 4rem; }
+
+  .mb-resp {
+    margin-bottom: 1rem; } }
+
+    .container1 {
+      position: relative;
+      text-align: center;
+      color: white;
+      width: 100%;
+      max-width: 277px;
+    }
+
+    .image1 {
+      display: block;
+      width: 100%;
+      height: auto;
+    }
+
+    .overlay1 {
+
+      background: rgb(0, 0, 0);
+      background: rgba(0, 0, 0, 0.5); /* Black see-through */
+      color: #f1f1f1;
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        overflow: hidden;
+        width: 100%;
+        height: 0;
+        transition: .5s ease;
+    }
+    .text {
+        color: white;
+        font-size: 14px;
+        position: absolute;
+        top: 80%;
+        left: 20%;
+        padding: 0px;
+        -webkit-transform: translate(-20%, -70%);
+        -ms-transform: translate(-20%, -70%);
+        transform: translate(-20%, -70%);
+        text-align: left;
+    }
+    .overlay{
+    background-color:rgba(0,0,0,0);
+    color:white;
+    position:absolute;
+    bottom: 8px;
+    left: 16px;
+
+    /*animate*/
+    transition:all .1s ease-in;
+    }
+
+    .container1:hover .overlay1 {
+      opacity: 1;
+      height: 100%;
+    }
+    .container1:hover .overlay {
+      opacity: 0;
+    }
+
+    .top-right {
+        position: absolute;
+        top: 8px;
+        right: 16px;
+    }
+
+    .bottom-left {
+        position: absolute;
+        bottom: 8px;
+        left: 16px;
+    }
+    #text:hover {
+        /* other rules */
+        display:none;
+    }
+
+   
+
+   
