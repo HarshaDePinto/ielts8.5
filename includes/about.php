@@ -75,31 +75,87 @@
 
 <li>
     <span class="text-success">
-        Aim & Goal
+        &
     </span>
     <ul style="list-style-type:none;">
-        <li>Aim <a href="" target="_blank">(Aim) <i class="fas fa-volume-up"></i></a>
+        <li> <a href="" target="_blank">() <i class="fas fa-volume-up"></i></a>
             <ul style="list-style-type:none;">
                 <li><span class="text-info">Definition:</span> <br>
-                    have the intention of achieving.
+
+
                 </li>
                 <li><span class="text-info">Examples:</span> <br>
-                    Our main aim is to increase sales in Europe.<br>
-                    Aim the camcorder at some suitable object.
+                    <br>
+
+
+
                 </li>
 
             </ul>
         </li>
 
 
-        <li>Goal <a href="https://www.google.com/search?sxsrf=ACYBGNRK6OQpoF4B3hCg6qnxHO67d1gVGg:1580290322395&q=how+to+pronounce+goal&stick=H4sIAAAAAAAAAOMIfcRoxi3w8sc9YSndSWtOXmNU5-INKMrPK81LzkwsyczPExLgYglJLcoV4pBi42JJz0_MsWJRYkrN41nEKpqRX65Qkq9QAFSfD9SQqgCSBgAYbyiwUwAAAA&pron_lang=en&pron_country=gb&sa=X&ved=2ahUKEwjmqruawKjnAhWC63MBHVeDBjAQ3eEDMAB6BAgBEAg&sxsrf=ACYBGNRK6OQpoF4B3hCg6qnxHO67d1gVGg:1580290322395" target="_blank">(Go-al) <i class="fas fa-volume-up"></i></a>
+        <li> <a href="" target="_blank">() <i class="fas fa-volume-up"></i></a>
             <ul style="list-style-type:none;">
                 <li><span class="text-info">Definition:</span> <br>
-                    the object of a person's ambition or effort; an aim or desired result
+
+
                 </li>
                 <li><span class="text-info">Examples:</span> <br>
-                    He achieved his goal of becoming King of England.<br>
-                    Your goal as a parent is to help your child become an independent adult.
+                    <br>
+
+                </li>
+
+            </ul>
+        </li>
+
+    </ul>
+</li>
+
+
+
+
+<li>
+    <span class="text-success">
+        , &
+    </span>
+    <ul style="list-style-type:none;">
+        <li> <a href="" target="_blank">() <i class="fas fa-volume-up"></i></a>
+            <ul style="list-style-type:none;">
+                <li><span class="text-info">Definition:</span> <br>
+
+                </li>
+                <li><span class="text-info">Examples:</span> <br>
+                    <br>
+
+                </li>
+
+            </ul>
+        </li>
+
+
+        <li> <a href="" target="_blank">() <i class="fas fa-volume-up"></i></a>
+            <ul style="list-style-type:none;">
+                <li><span class="text-info">Definition:</span> <br>
+
+                </li>
+                <li><span class="text-info">Examples:</span> <br>
+                    <br>
+
+                </li>
+
+            </ul>
+        </li>
+
+        <li> <a href="" target="_blank">(Ir-ri-ta-ted) <i class="fas fa-volume-up"></i></a>
+            <ul style="list-style-type:none;">
+                <li><span class="text-info">Definition:</span> <br>
+
+                </li>
+                <li><span class="text-info">Examples:</span> <br>
+                    <br>
+
+
                 </li>
 
             </ul>
