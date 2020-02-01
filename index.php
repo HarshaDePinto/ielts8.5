@@ -15,7 +15,7 @@ include "includes/head.php";
                     <div class="col-lg-6 text-center" id="score">
 
                         <h1 class="display-2 mt-5 pt-5">
-                            Score Band 8.5 IELTS..
+                            IELTS For Immigration...
                         </h1>
                         <p class="lead">What is IELTS? Who should do it? How it score?</p>
                         <a href="introduction.php" class="btn button1 btn-lg text-white">
@@ -40,10 +40,7 @@ include "includes/head.php";
         <?php include "includes/test_format.php"; ?>
     </section>
 
-    <!-- ABOUT / WHY SECTION -->
-    <section id="about" class="py-5 text-center bg-light">
-        <?php include "includes/about.php"; ?>
-    </section>
+
 
     <!-- AUTHORS -->
     <section id="authors" class="my-5 text-center">

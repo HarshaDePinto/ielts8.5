@@ -1,7 +1,7 @@
 <nav class="navbar navbar-expand-md navbar-light fixed-top pb-4" id="main-nav">
     <div class="container">
         <a href="index.php" class="navbar-brand">
-            <img src="img/logo.png" width="100" alt="">
+            <img src="img/logo01.jpg" width="200" alt="">
             <!-- <h3 class="d-inline align-middle">With </h3> -->
         </a>
         <button class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">

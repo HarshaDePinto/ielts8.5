@@ -59,10 +59,7 @@ include "includes/head.php";
         <?php include "includes/test_format.php"; ?>
     </section>
 
-    <!-- ABOUT / WHY SECTION -->
-    <section id="about" class="py-5 text-center bg-light">
-        <?php include "includes/about.php"; ?>
-    </section>
+
 
     <!-- AUTHORS -->
     <section id="authors" class="my-5 text-center">

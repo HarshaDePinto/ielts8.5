@@ -28,6 +28,9 @@ include "includes/head.php";
                         <a href="#synonym" style="background-color:#6666ff ;" class="btn btn-block  text-white">
                             <p class="lead"><i class="fas fa-user-ninja"></i> Synonym </p>
                         </a>
+                        <a href="#synonym" style="background-color:#6666ff ;" class="btn btn-block  text-white">
+                            <p class="lead"><i class="fas fa-check-circle"></i> Dictation </p>
+                        </a>
 
 
                     </div>
@@ -57,6 +60,10 @@ include "includes/head.php";
                         <a href="#synonym" style="background-color:#6666ff ;" class="btn btn-block  text-white">
                             <p class="lead"><i class="fas fa-user-ninja"></i> Synonym </p>
                         </a>
+
+                        <a href="#synonym" style="background-color:#6666ff ;" class="btn btn-block  text-white">
+                            <p class="lead"><i class="fas fa-check-circle"></i> Dictation </p>
+                        </a>
                     </div>
                     <div class="col-md-9">
                         <h1 class="text-primary pb-3 pt-5">
@@ -76,7 +83,7 @@ include "includes/head.php";
                         <h5 class="text-danger  text-center"> Remember poor spelling and grammar are penalised</h5>
                         <h6 class="text-primary float-right">Watch the following Video For More Details </h6>
                         <div class="embed-responsive embed-responsive-16by9">
-                            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/zpOULjyy-n8?rel=0" allowfullscreen></iframe>
+                            <iframe width="560" height="315" src="https://www.youtube.com/embed/9q8p-CKtl-E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                         </div>
                     </div>
 
@@ -111,7 +118,7 @@ include "includes/head.php";
                                 <h5><span class="text-primary">Recording 1</span> </h5>
                                 <ul style="list-style-type:none;">
                                     <li>
-                                        <p class="lead">A conversation between two people set in an everyday social context.For example, a conversation about travel arrangements</p>
+                                        <p class="lead">A conversation between two people set in an everyday social context. For example, a conversation about travel arrangements</p>
                                     </li>
 
                                 </ul>
@@ -148,7 +155,7 @@ include "includes/head.php";
 
                         <h6 class="text-primary float-right">Watch the following Video For More Details </h6>
                         <div class="embed-responsive embed-responsive-16by9">
-                            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/zpOULjyy-n8?rel=0" allowfullscreen></iframe>
+                            <iframe width="560" height="315" src="https://www.youtube.com/embed/9q8p-CKtl-E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                         </div>
                     </div>
 
@@ -180,13 +187,13 @@ include "includes/head.php";
                         <h5 class="text-center">A synonym is a word having the same or nearly the same meaning as another word or a phrase. </h5>
 
 
-                        <button style="background-color:#483D8B ;" class="btn  text-white d-inline" onclick="show('A')"> A</button>
+                        <button style="background-color:#0099ff ;" class="btn  text-white d-inline m-2" onclick="show('A')"> A</button>
                         <div id="A" style="display:none">
                             <div class="card">
                                 <div class="card-header">
                                     <h5 class="mb-0 text-primary">
                                         <div>
-                                            <i class="fas fa-arrow-circle-down"></i> Example From A
+                                            <i class="fas fa-arrow-circle-down"></i> Synonym From A
                                         </div>
                                     </h5>
                                 </div>
@@ -938,7 +945,152 @@ include "includes/head.php";
 
                                         </h5>
                                     </ol>
+                                    <a href="#synonym" class="btn btn-success  mb-3"><i class="fas fa-arrow-alt-circle-up"></i> Go Top</a>
+                                    <h6 class="text-primary float-right ">Watch the following Video For More Details </h6>
+                                    <div class="embed-responsive embed-responsive-16by9">
+                                        <iframe width="560" height="315" src="https://www.youtube.com/embed/9q8p-CKtl-E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                    </div>
+                                </div>
 
+                            </div>
+                        </div>
+
+                        <button style="background-color:#0099ff ;" class="btn  text-white d-inline m-2" onclick="show('B')"> B</button>
+                        <div id="B" style="display:none">
+                            <div class="card">
+                                <div class="card-header">
+                                    <h5 class="mb-0 text-primary">
+                                        <div>
+                                            <i class="fas fa-arrow-circle-down"></i> Synonym From B
+                                        </div>
+                                    </h5>
+                                </div>
+
+
+                                <div class="card-body">
+
+                                    <ol>
+                                        <h5>
+
+                                        </h5>
+                                    </ol>
+                                    <a href="#synonym" class="btn btn-success  mb-3"><i class="fas fa-arrow-alt-circle-up"></i> Go Top</a>
+                                    <h6 class="text-primary float-right">Watch the following Video For More Details </h6>
+                                    <div class="embed-responsive embed-responsive-16by9">
+                                        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/zpOULjyy-n8?rel=0" allowfullscreen></iframe>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+
+                        <button style="background-color:#0099ff ;" class="btn  text-white d-inline m-2" onclick="show('C')"> C</button>
+                        <div id="C" style="display:none">
+                            <div class="card">
+                                <div class="card-header">
+                                    <h5 class="mb-0 text-primary">
+                                        <div>
+                                            <i class="fas fa-arrow-circle-down"></i> Synonym From C
+                                        </div>
+                                    </h5>
+                                </div>
+
+
+                                <div class="card-body">
+
+                                    <ol>
+                                        <h5>
+
+                                        </h5>
+                                    </ol>
+                                    <a href="#synonym" class="btn btn-success  mb-3"><i class="fas fa-arrow-alt-circle-up"></i> Go Top</a>
+                                    <h6 class="text-primary float-right">Watch the following Video For More Details </h6>
+                                    <div class="embed-responsive embed-responsive-16by9">
+                                        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/zpOULjyy-n8?rel=0" allowfullscreen></iframe>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+
+                        <button style="background-color:#0099ff ;" class="btn  text-white d-inline m-2" onclick="show('D')">D</button>
+                        <div id="D" style="display:none">
+                            <div class="card">
+                                <div class="card-header">
+                                    <h5 class="mb-0 text-primary">
+                                        <div>
+                                            <i class="fas fa-arrow-circle-down"></i> Synonym From D
+                                        </div>
+                                    </h5>
+                                </div>
+
+
+                                <div class="card-body">
+
+                                    <ol>
+                                        <h5>
+
+                                        </h5>
+                                    </ol>
+                                    <a href="#synonym" class="btn btn-success  mb-3"><i class="fas fa-arrow-alt-circle-up"></i> Go Top</a>
+                                    <h6 class="text-primary float-right">Watch the following Video For More Details </h6>
+                                    <div class="embed-responsive embed-responsive-16by9">
+                                        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/zpOULjyy-n8?rel=0" allowfullscreen></iframe>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+
+                        <button style="background-color:#0099ff ;" class="btn  text-white d-inline m-2" onclick="show('E')">E</button>
+                        <div id="E" style="display:none">
+                            <div class="card">
+                                <div class="card-header">
+                                    <h5 class="mb-0 text-primary">
+                                        <div>
+                                            <i class="fas fa-arrow-circle-down"></i> Synonym From E
+                                        </div>
+                                    </h5>
+                                </div>
+
+
+                                <div class="card-body">
+
+                                    <ol>
+                                        <h5>
+
+                                        </h5>
+                                    </ol>
+                                    <a href="#synonym" class="btn btn-success  mb-3"><i class="fas fa-arrow-alt-circle-up"></i> Go Top</a>
+                                    <h6 class="text-primary float-right">Watch the following Video For More Details </h6>
+                                    <div class="embed-responsive embed-responsive-16by9">
+                                        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/zpOULjyy-n8?rel=0" allowfullscreen></iframe>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+
+                        <button style="background-color:#0099ff ;" class="btn  text-white d-inline m-2" onclick="show('F')">F</button>
+                        <div id="F" style="display:none">
+                            <div class="card">
+                                <div class="card-header">
+                                    <h5 class="mb-0 text-primary">
+                                        <div>
+                                            <i class="fas fa-arrow-circle-down"></i> Synonym From F
+                                        </div>
+                                    </h5>
+                                </div>
+
+
+                                <div class="card-body">
+
+                                    <ol>
+                                        <h5>
+
+                                        </h5>
+                                    </ol>
+                                    <a href="#synonym" class="btn btn-success  mb-3"><i class="fas fa-arrow-alt-circle-up"></i> Go Top</a>
                                     <h6 class="text-primary float-right">Watch the following Video For More Details </h6>
                                     <div class="embed-responsive embed-responsive-16by9">
                                         <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/zpOULjyy-n8?rel=0" allowfullscreen></iframe>
@@ -949,12 +1101,559 @@ include "includes/head.php";
                         </div>
 
 
-                        <button style="background-color:#483D8B ;" class="btn  text-white d-inline" onclick="show('B')"> B</button>
-                        <div id="B" style="display:none">
-                            BBBBBBBBBBB
+                        <button style="background-color:#0099ff ;" class="btn  text-white d-inline m-2" onclick="show('G')">G</button>
+                        <div id="G" style="display:none">
+                            <div class="card">
+                                <div class="card-header">
+                                    <h5 class="mb-0 text-primary">
+                                        <div>
+                                            <i class="fas fa-arrow-circle-down"></i> Synonym From G
+                                        </div>
+                                    </h5>
+                                </div>
+
+
+                                <div class="card-body">
+
+                                    <ol>
+                                        <h5>
+
+                                        </h5>
+                                    </ol>
+                                    <a href="#synonym" class="btn btn-success  mb-3"><i class="fas fa-arrow-alt-circle-up"></i> Go Top</a>
+                                    <h6 class="text-primary float-right">Watch the following Video For More Details </h6>
+                                    <div class="embed-responsive embed-responsive-16by9">
+                                        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/zpOULjyy-n8?rel=0" allowfullscreen></iframe>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+
+                        <button style="background-color:#0099ff ;" class="btn  text-white d-inline m-2" onclick="show('H')">H</button>
+                        <div id="H" style="display:none">
+                            <div class="card">
+                                <div class="card-header">
+                                    <h5 class="mb-0 text-primary">
+                                        <div>
+                                            <i class="fas fa-arrow-circle-down"></i> Synonym From H
+                                        </div>
+                                    </h5>
+                                </div>
+
+
+                                <div class="card-body">
+
+                                    <ol>
+                                        <h5>
+
+                                        </h5>
+                                    </ol>
+                                    <a href="#synonym" class="btn btn-success  mb-3"><i class="fas fa-arrow-alt-circle-up"></i> Go Top</a>
+                                    <h6 class="text-primary float-right">Watch the following Video For More Details </h6>
+                                    <div class="embed-responsive embed-responsive-16by9">
+                                        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/zpOULjyy-n8?rel=0" allowfullscreen></iframe>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+
+                        <button style="background-color:#0099ff ;" class="btn  text-white d-inline m-2" onclick="show('I')">I</button>
+                        <div id="I" style="display:none">
+                            <div class="card">
+                                <div class="card-header">
+                                    <h5 class="mb-0 text-primary">
+                                        <div>
+                                            <i class="fas fa-arrow-circle-down"></i> Synonym From I
+                                        </div>
+                                    </h5>
+                                </div>
+
+
+                                <div class="card-body">
+
+                                    <ol>
+                                        <h5>
+
+                                        </h5>
+                                    </ol>
+                                    <a href="#synonym" class="btn btn-success  mb-3"><i class="fas fa-arrow-alt-circle-up"></i> Go Top</a>
+                                    <h6 class="text-primary float-right">Watch the following Video For More Details </h6>
+                                    <div class="embed-responsive embed-responsive-16by9">
+                                        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/zpOULjyy-n8?rel=0" allowfullscreen></iframe>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+
+                        <button style="background-color:#0099ff ;" class="btn  text-white d-inline m-2" onclick="show('J')">J</button>
+                        <div id="J" style="display:none">
+                            <div class="card">
+                                <div class="card-header">
+                                    <h5 class="mb-0 text-primary">
+                                        <div>
+                                            <i class="fas fa-arrow-circle-down"></i> Synonym From J
+                                        </div>
+                                    </h5>
+                                </div>
+
+
+                                <div class="card-body">
+
+                                    <ol>
+                                        <h5>
+
+                                        </h5>
+                                    </ol>
+                                    <a href="#synonym" class="btn btn-success  mb-3"><i class="fas fa-arrow-alt-circle-up"></i> Go Top</a>
+                                    <h6 class="text-primary float-right">Watch the following Video For More Details </h6>
+                                    <div class="embed-responsive embed-responsive-16by9">
+                                        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/zpOULjyy-n8?rel=0" allowfullscreen></iframe>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+
+                        <button style="background-color:#0099ff ;" class="btn  text-white d-inline m-2" onclick="show('K')">K</button>
+                        <div id="K" style="display:none">
+                            <div class="card">
+                                <div class="card-header">
+                                    <h5 class="mb-0 text-primary">
+                                        <div>
+                                            <i class="fas fa-arrow-circle-down"></i> Synonym From K
+                                        </div>
+                                    </h5>
+                                </div>
+
+
+                                <div class="card-body">
+
+                                    <ol>
+                                        <h5>
+
+                                        </h5>
+                                    </ol>
+                                    <a href="#synonym" class="btn btn-success  mb-3"><i class="fas fa-arrow-alt-circle-up"></i> Go Top</a>
+                                    <h6 class="text-primary float-right">Watch the following Video For More Details </h6>
+                                    <div class="embed-responsive embed-responsive-16by9">
+                                        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/zpOULjyy-n8?rel=0" allowfullscreen></iframe>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+
+                        <button style="background-color:#0099ff ;" class="btn  text-white d-inline m-2" onclick="show('L')">L</button>
+                        <div id="L" style="display:none">
+                            <div class="card">
+                                <div class="card-header">
+                                    <h5 class="mb-0 text-primary">
+                                        <div>
+                                            <i class="fas fa-arrow-circle-down"></i> Synonym From L
+                                        </div>
+                                    </h5>
+                                </div>
+
+
+                                <div class="card-body">
+
+                                    <ol>
+                                        <h5>
+
+                                        </h5>
+                                    </ol>
+                                    <a href="#synonym" class="btn btn-success  mb-3"><i class="fas fa-arrow-alt-circle-up"></i> Go Top</a>
+                                    <h6 class="text-primary float-right">Watch the following Video For More Details </h6>
+                                    <div class="embed-responsive embed-responsive-16by9">
+                                        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/zpOULjyy-n8?rel=0" allowfullscreen></iframe>
+                                    </div>
+                                </div>
+
+                            </div>
                         </div>
 
 
+                        <button style="background-color:#0099ff ;" class="btn  text-white d-inline m-2" onclick="show('M')">M</button>
+                        <div id="M" style="display:none">
+                            <div class="card">
+                                <div class="card-header">
+                                    <h5 class="mb-0 text-primary">
+                                        <div>
+                                            <i class="fas fa-arrow-circle-down"></i> Synonym From M
+                                        </div>
+                                    </h5>
+                                </div>
+
+
+                                <div class="card-body">
+
+                                    <ol>
+                                        <h5>
+
+                                        </h5>
+                                    </ol>
+                                    <a href="#synonym" class="btn btn-success  mb-3"><i class="fas fa-arrow-alt-circle-up"></i> Go Top</a>
+                                    <h6 class="text-primary float-right">Watch the following Video For More Details </h6>
+                                    <div class="embed-responsive embed-responsive-16by9">
+                                        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/zpOULjyy-n8?rel=0" allowfullscreen></iframe>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+
+                        <button style="background-color:#0099ff ;" class="btn  text-white d-inline m-2" onclick="show('N')">N</button>
+                        <div id="N" style="display:none">
+                            <div class="card">
+                                <div class="card-header">
+                                    <h5 class="mb-0 text-primary">
+                                        <div>
+                                            <i class="fas fa-arrow-circle-down"></i> Synonym From N
+                                        </div>
+                                    </h5>
+                                </div>
+
+
+                                <div class="card-body">
+
+                                    <ol>
+                                        <h5>
+
+                                        </h5>
+                                    </ol>
+                                    <a href="#synonym" class="btn btn-success  mb-3"><i class="fas fa-arrow-alt-circle-up"></i> Go Top</a>
+                                    <h6 class="text-primary float-right">Watch the following Video For More Details </h6>
+                                    <div class="embed-responsive embed-responsive-16by9">
+                                        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/zpOULjyy-n8?rel=0" allowfullscreen></iframe>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+
+                        <button style="background-color:#0099ff ;" class="btn  text-white d-inline m-2" onclick="show('P')">P</button>
+                        <div id="P" style="display:none">
+                            <div class="card">
+                                <div class="card-header">
+                                    <h5 class="mb-0 text-primary">
+                                        <div>
+                                            <i class="fas fa-arrow-circle-down"></i> Synonym From O
+                                        </div>
+                                    </h5>
+                                </div>
+
+
+                                <div class="card-body">
+
+                                    <ol>
+                                        <h5>
+
+                                        </h5>
+                                    </ol>
+                                    <a href="#synonym" class="btn btn-success  mb-3"><i class="fas fa-arrow-alt-circle-up"></i> Go Top</a>
+                                    <h6 class="text-primary float-right">Watch the following Video For More Details </h6>
+                                    <div class="embed-responsive embed-responsive-16by9">
+                                        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/zpOULjyy-n8?rel=0" allowfullscreen></iframe>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+
+                        <button style="background-color:#0099ff ;" class="btn  text-white d-inline m-2" onclick="show('Q')">Q</button>
+                        <div id="Q" style="display:none">
+                            <div class="card">
+                                <div class="card-header">
+                                    <h5 class="mb-0 text-primary">
+                                        <div>
+                                            <i class="fas fa-arrow-circle-down"></i> Synonym From Q
+                                        </div>
+                                    </h5>
+                                </div>
+
+
+                                <div class="card-body">
+
+                                    <ol>
+                                        <h5>
+
+                                        </h5>
+                                    </ol>
+                                    <a href="#synonym" class="btn btn-success  mb-3"><i class="fas fa-arrow-alt-circle-up"></i> Go Top</a>
+                                    <h6 class="text-primary float-right">Watch the following Video For More Details </h6>
+                                    <div class="embed-responsive embed-responsive-16by9">
+                                        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/zpOULjyy-n8?rel=0" allowfullscreen></iframe>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+
+                        <button style="background-color:#0099ff ;" class="btn  text-white d-inline m-2" onclick="show('R')">R</button>
+                        <div id="R" style="display:none">
+                            <div class="card">
+                                <div class="card-header">
+                                    <h5 class="mb-0 text-primary">
+                                        <div>
+                                            <i class="fas fa-arrow-circle-down"></i> Synonym From R
+                                        </div>
+                                    </h5>
+                                </div>
+
+
+                                <div class="card-body">
+
+                                    <ol>
+                                        <h5>
+
+                                        </h5>
+                                    </ol>
+                                    <a href="#synonym" class="btn btn-success  mb-3"><i class="fas fa-arrow-alt-circle-up"></i> Go Top</a>
+                                    <h6 class="text-primary float-right">Watch the following Video For More Details </h6>
+                                    <div class="embed-responsive embed-responsive-16by9">
+                                        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/zpOULjyy-n8?rel=0" allowfullscreen></iframe>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+
+                        <button style="background-color:#0099ff ;" class="btn  text-white d-inline m-2" onclick="show('S')">S</button>
+                        <div id="S" style="display:none">
+                            <div class="card">
+                                <div class="card-header">
+                                    <h5 class="mb-0 text-primary">
+                                        <div>
+                                            <i class="fas fa-arrow-circle-down"></i> Synonym From S
+                                        </div>
+                                    </h5>
+                                </div>
+
+
+                                <div class="card-body">
+
+                                    <ol>
+                                        <h5>
+
+                                        </h5>
+                                    </ol>
+                                    <a href="#synonym" class="btn btn-success  mb-3"><i class="fas fa-arrow-alt-circle-up"></i> Go Top</a>
+                                    <h6 class="text-primary float-right">Watch the following Video For More Details </h6>
+                                    <div class="embed-responsive embed-responsive-16by9">
+                                        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/zpOULjyy-n8?rel=0" allowfullscreen></iframe>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+
+                        <button style="background-color:#0099ff ;" class="btn  text-white d-inline m-2" onclick="show('T')">T</button>
+                        <div id="T" style="display:none">
+                            <div class="card">
+                                <div class="card-header">
+                                    <h5 class="mb-0 text-primary">
+                                        <div>
+                                            <i class="fas fa-arrow-circle-down"></i> Synonym From T
+                                        </div>
+                                    </h5>
+                                </div>
+
+
+                                <div class="card-body">
+
+                                    <ol>
+                                        <h5>
+
+                                        </h5>
+                                    </ol>
+                                    <a href="#synonym" class="btn btn-success  mb-3"><i class="fas fa-arrow-alt-circle-up"></i> Go Top</a>
+                                    <h6 class="text-primary float-right">Watch the following Video For More Details </h6>
+                                    <div class="embed-responsive embed-responsive-16by9">
+                                        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/zpOULjyy-n8?rel=0" allowfullscreen></iframe>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+
+                        <button style="background-color:#0099ff ;" class="btn  text-white d-inline m-2" onclick="show('U')">U</button>
+                        <div id="U" style="display:none">
+                            <div class="card">
+                                <div class="card-header">
+                                    <h5 class="mb-0 text-primary">
+                                        <div>
+                                            <i class="fas fa-arrow-circle-down"></i> Synonym From U
+                                        </div>
+                                    </h5>
+                                </div>
+
+
+                                <div class="card-body">
+
+                                    <ol>
+                                        <h5>
+
+                                        </h5>
+                                    </ol>
+                                    <a href="#synonym" class="btn btn-success  mb-3"><i class="fas fa-arrow-alt-circle-up"></i> Go Top</a>
+                                    <h6 class="text-primary float-right">Watch the following Video For More Details </h6>
+                                    <div class="embed-responsive embed-responsive-16by9">
+                                        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/zpOULjyy-n8?rel=0" allowfullscreen></iframe>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+
+                        <button style="background-color:#0099ff ;" class="btn  text-white d-inline m-2" onclick="show('V')">V</button>
+                        <div id="V" style="display:none">
+                            <div class="card">
+                                <div class="card-header">
+                                    <h5 class="mb-0 text-primary">
+                                        <div>
+                                            <i class="fas fa-arrow-circle-down"></i> Synonym From V
+                                        </div>
+                                    </h5>
+                                </div>
+
+
+                                <div class="card-body">
+
+                                    <ol>
+                                        <h5>
+
+                                        </h5>
+                                    </ol>
+                                    <a href="#synonym" class="btn btn-success  mb-3"><i class="fas fa-arrow-alt-circle-up"></i> Go Top</a>
+                                    <h6 class="text-primary float-right">Watch the following Video For More Details </h6>
+                                    <div class="embed-responsive embed-responsive-16by9">
+                                        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/zpOULjyy-n8?rel=0" allowfullscreen></iframe>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+
+
+                        <button style="background-color:#0099ff ;" class="btn  text-white d-inline m-2" onclick="show('W')">W</button>
+                        <div id="W" style="display:none">
+                            <div class="card">
+                                <div class="card-header">
+                                    <h5 class="mb-0 text-primary">
+                                        <div>
+                                            <i class="fas fa-arrow-circle-down"></i> Synonym From W
+                                        </div>
+                                    </h5>
+                                </div>
+
+
+                                <div class="card-body">
+
+                                    <ol>
+                                        <h5>
+
+                                        </h5>
+                                    </ol>
+                                    <a href="#synonym" class="btn btn-success  mb-3"><i class="fas fa-arrow-alt-circle-up"></i> Go Top</a>
+                                    <h6 class="text-primary float-right">Watch the following Video For More Details </h6>
+                                    <div class="embed-responsive embed-responsive-16by9">
+                                        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/zpOULjyy-n8?rel=0" allowfullscreen></iframe>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+
+                        <button style="background-color:#0099ff ;" class="btn  text-white d-inline m-2" onclick="show('X')">X</button>
+                        <div id="X" style="display:none">
+                            <div class="card">
+                                <div class="card-header">
+                                    <h5 class="mb-0 text-primary">
+                                        <div>
+                                            <i class="fas fa-arrow-circle-down"></i> Synonym From X
+                                        </div>
+                                    </h5>
+                                </div>
+
+
+                                <div class="card-body">
+
+                                    <ol>
+                                        <h5>
+
+                                        </h5>
+                                    </ol>
+                                    <a href="#synonym" class="btn btn-success  mb-3"><i class="fas fa-arrow-alt-circle-up"></i> Go Top</a>
+                                    <h6 class="text-primary float-right">Watch the following Video For More Details </h6>
+                                    <div class="embed-responsive embed-responsive-16by9">
+                                        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/zpOULjyy-n8?rel=0" allowfullscreen></iframe>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+
+
+                        <button style="background-color:#0099ff ;" class="btn  text-white d-inline m-2" onclick="show('Y')">Y</button>
+                        <div id="Y" style="display:none">
+                            <div class="card">
+                                <div class="card-header">
+                                    <h5 class="mb-0 text-primary">
+                                        <div>
+                                            <i class="fas fa-arrow-circle-down"></i> Synonym From Y
+                                        </div>
+                                    </h5>
+                                </div>
+
+
+                                <div class="card-body">
+
+                                    <ol>
+                                        <h5>
+
+                                        </h5>
+                                    </ol>
+                                    <a href="#synonym" class="btn btn-success  mb-3"><i class="fas fa-arrow-alt-circle-up"></i> Go Top</a>
+                                    <h6 class="text-primary float-right">Watch the following Video For More Details </h6>
+                                    <div class="embed-responsive embed-responsive-16by9">
+                                        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/zpOULjyy-n8?rel=0" allowfullscreen></iframe>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+
+                        <button style="background-color:#0099ff ;" class="btn  text-white d-inline m-2" onclick="show('Z')">Z</button>
+                        <div id="Z" style="display:none">
+                            <div class="card">
+                                <div class="card-header">
+                                    <h5 class="mb-0 text-primary">
+                                        <div>
+                                            <i class="fas fa-arrow-circle-down"></i> Synonym From Z
+                                        </div>
+                                    </h5>
+                                </div>
+
+
+                                <div class="card-body">
+
+                                    <ol>
+                                        <h5>
+
+                                        </h5>
+                                    </ol>
+                                    <a href="#synonym" class="btn btn-success  mb-3"><i class="fas fa-arrow-alt-circle-up"></i> Go Top</a>
+                                    <h6 class="text-primary float-right">Watch the following Video For More Details </h6>
+                                    <div class="embed-responsive embed-responsive-16by9">
+                                        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/zpOULjyy-n8?rel=0" allowfullscreen></iframe>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
 
                         <div id="main_place">
 
@@ -977,10 +1676,7 @@ include "includes/head.php";
         <?php include "includes/test_format.php"; ?>
     </section>
 
-    <!-- ABOUT / WHY SECTION -->
-    <section id="about" class="py-5 text-center bg-light">
-        <?php include "includes/about.php"; ?>
-    </section>
+
 
     <!-- AUTHORS -->
     <section id="authors" class="my-5 text-center">
