@@ -112,6 +112,44 @@
     </ul>
 </li>
 
+<li>
+    <span class="text-success">
+        Broad &
+    </span>
+    <ul style="list-style-type:none;">
+        <li> Broad <a href="https://www.google.com/search?biw=1366&bih=657&sxsrf=ACYBGNQ_d8WlCRMnm5OYcyZPyeNRl7P-nA%3A1580646903148&ei=98E2XszbCNWsrQG89K3YDA&q=how+to+pronounce+Broad&oq=how+to+pronounce+Broad&gs_l=psy-ab.12..0l10.2839861.2839861..2841742...0.2..0.99.99.1......0....2j1..gws-wiz.......0i71.nCcvkInM8fo&ved=0ahUKEwiMs7XJ8LLnAhVVVisKHTx6C8sQ4dUDCAs" target="_blank">(Broad) <i class="fas fa-volume-up"></i></a>
+            <ul style="list-style-type:none;">
+                <li><span class="text-info">Definition:</span> <br>
+                    having a distance larger than usual from side to side; wide.
+
+                </li>
+                <li><span class="text-info">Examples:</span> <br>
+                    <br>
+
+
+
+                </li>
+
+            </ul>
+        </li>
+
+
+        <li> <a href="" target="_blank">() <i class="fas fa-volume-up"></i></a>
+            <ul style="list-style-type:none;">
+                <li><span class="text-info">Definition:</span> <br>
+
+
+                </li>
+                <li><span class="text-info">Examples:</span> <br>
+                    <br>
+
+                </li>
+
+            </ul>
+        </li>
+
+    </ul>
+</li>
 
 
 

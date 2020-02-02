@@ -36,7 +36,7 @@
         </div>
 
         <div class="col-lg-3 align-self-center">
-            <img src="img/mlogo.png" alt="" class="img-fluid">
+            <img src="img/logo01.jpg" alt="" class="img-fluid">
         </div>
     </div>
 </div>
