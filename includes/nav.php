@@ -1,4 +1,4 @@
-<nav class="navbar navbar-expand-md navbar-light fixed-top pb-4" id="main-nav">
+<nav class="navbar navbar-expand-md navbar-light fixed-top " id="main-nav">
     <div class="container">
         <a href="index.php" class="navbar-brand">
             <img src="img/logo01.jpg" width="200" alt="">
@@ -16,7 +16,7 @@
                     <a href="#test_format" class="nav-link">Test Format</a>
                 </li>
                 <li class="nav-item">
-                    <a href="#authors" class="nav-link">Meet The Authors</a>
+                    <a href="#authors" class="nav-link">Authors</a>
                 </li>
                 <li class="nav-item">
                     <a href="#contact" class="nav-link">Contact</a>

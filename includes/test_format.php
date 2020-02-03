@@ -9,76 +9,88 @@
         </p>
     </div>
     <div class="row no-gutters">
-        <div class="container1 ">
-            <img src="img/listening.jpg" alt="Avatar" class="image1">
-            <div class="top-right">
-                <p class="text-primary"> Test Format </p>
-            </div>
-            <div class="overlay1">
-                <div class="text">
+        <div class="col-lg-3 col-md-6">
+            <div class="container1 ">
+                <img src="img/listening.jpg" alt="Avatar" class="image1">
+                <div class="top-right">
+                    <p class="text-primary"> Test Format </p>
+                </div>
+                <div class="overlay1">
+                    <div class="text">
 
-                    <h2><a class="text-primary mt-4" href="listening.php">LISTENING</a></h2>
-                    <p>You have to listen to four recordings of native English speakers and then write your answers to a series of questions.</p>
+                        <h2><a class="text-primary mt-4" href="listening.php">LISTENING</a></h2>
+                        <p>You have to listen to four recordings of native English speakers and then write your answers to a series of questions.</p>
+                    </div>
+                </div>
+                <div class="overlay">
+                    <h2><a class="text-primary" href="listening.php">LISTENING</a></h2>
                 </div>
             </div>
-            <div class="overlay">
-                <h2><a class="text-primary" href="listening.php">LISTENING</a></h2>
-            </div>
         </div>
+        <div class="col-lg-3 col-md-6">
+            <div class="container1">
+                <img src="img/reading.jpg" alt="Avatar" class="image1">
+                <div class="top-right">
+                    <p class="text-primary"> Test Format </p>
+                </div>
+                <div class="overlay1">
+                    <div class="text">
 
-
-
-
-        <div class="container1">
-            <img src="img/reading.jpg" alt="Avatar" class="image1">
-            <div class="top-right">
-                <p class="text-primary"> Test Format </p>
-            </div>
-            <div class="overlay1">
-                <div class="text">
-
+                        <h2><a class="text-primary mt-4" href="">READING</a></h2>
+                        <p>Negombo is a city on the west coast of Sri Lanka, north of the capital, Colombo. Near the waterfront, the remains of the 17th-century Dutch Fort now house a prison. </p>
+                    </div>
+                </div>
+                <div class="overlay">
                     <h2><a class="text-primary mt-4" href="">READING</a></h2>
-                    <p>Negombo is a city on the west coast of Sri Lanka, north of the capital, Colombo. Near the waterfront, the remains of the 17th-century Dutch Fort now house a prison. </p>
                 </div>
             </div>
-            <div class="overlay">
-                <h2><a class="text-primary mt-4" href="">READING</a></h2>
-            </div>
         </div>
+        <div class="col-lg-3 col-md-6">
+            <div class="container1">
+                <img src="img/writing.jpg" alt="Avatar" class="image1">
+                <div class="top-right">
+                    <p class="text-primary"> Test Format </p>
+                </div>
+                <div class="overlay1">
+                    <div class="text">
+                        <h2><a class="text-primary mt-4" href="">WRITING</a></h2>
 
-        <div class="container1">
-            <img src="img/writing.jpg" alt="Avatar" class="image1">
-            <div class="top-right">
-                <p class="text-primary"> Test Format </p>
-            </div>
-            <div class="overlay1">
-                <div class="text">
+                        <p>Galle is a city on the southwest coast of Sri Lanka. It’s known for Galle Fort, the fortified old city founded by Portuguese colonists in the 16th century.</p>
+                    </div>
+                </div>
+                <div class="overlay">
                     <h2><a class="text-primary mt-4" href="">WRITING</a></h2>
-
-                    <p>Galle is a city on the southwest coast of Sri Lanka. It’s known for Galle Fort, the fortified old city founded by Portuguese colonists in the 16th century.</p>
                 </div>
             </div>
-            <div class="overlay">
-                <h2><a class="text-primary mt-4" href="">WRITING</a></h2>
-            </div>
         </div>
+        <div class="col-lg-3 col-md-6">
+            <div class="container1">
+                <img src="img/speaking.jpg" alt="Avatar" class="image1">
+                <div class="top-right">
+                    <p class="text-primary"> Test Format </p>
+                </div>
+                <div class="overlay1">
+                    <div class="text">
+                        <h2><a class="text-primary mt-4" href="">SPEAKING</a></h2>
 
-        <div class="container1">
-            <img src="img/speaking.jpg" alt="Avatar" class="image1">
-            <div class="top-right">
-                <p class="text-primary"> Test Format </p>
-            </div>
-            <div class="overlay1">
-                <div class="text">
+                        <p>The MaldivesKandy is a large city in central Sri Lanka. It's set on a plateau surrounded by mountains, which are home to tea plantations and biodiverse rainforest.</p>
+                    </div>
+                </div>
+                <div class="overlay">
                     <h2><a class="text-primary mt-4" href="">SPEAKING</a></h2>
-
-                    <p>The MaldivesKandy is a large city in central Sri Lanka. It's set on a plateau surrounded by mountains, which are home to tea plantations and biodiverse rainforest.</p>
                 </div>
             </div>
-            <div class="overlay">
-                <h2><a class="text-primary mt-4" href="">SPEAKING</a></h2>
-            </div>
         </div>
+
+
+
+
+
+
+
+
+
+
 
     </div>
 </div>

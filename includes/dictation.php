@@ -118,12 +118,82 @@
                                 </div>
                             </h5>
                         </div>
-
                         <div id="collapse2" class="collapse">
                             <div class="card-body">
-                                UNDER CONSTRUCTION
+                                <div class="row">
+                                    <div class="col-md-4">
+                                        <ul>
+
+                                            <li>science</li>
+                                            <li>politics</li>
+                                            <li>history</li>
+                                            <li>biology</li>
+                                            <li>architecture</li>
+                                            <li>law</li>
+                                            <li>geography</li>
+                                            <li>archaeology</li>
+                                            <li>literature</li>
+                                            <li>business management</li>
+                                            <li>agriculture</li>
+                                            <li>statistics</li>
+                                            <li>mathematics</li>
+                                            <li>logic</li>
+                                            <li>physics</li>
+                                            <li>psychology</li>
+                                            <li>anthropology</li>
+                                        </ul>
+
+                                    </div>
+                                    <div class="col-md-4">
+                                        <ul>
+
+                                            <li>economics</li>
+                                            <li>philosophy</li>
+                                            <li>performing arts</li>
+                                            <li>visual arts</li>
+                                            <li>chemistry</li>
+                                            <li>humanities</li>
+                                            <li>course outline</li>
+                                            <li>group discussion</li>
+                                            <li>handout</li>
+                                            <li>written work</li>
+                                            <li>report writing</li>
+                                            <li>research</li>
+                                            <li>Proofreading</li>
+                                            <li>experiment</li>
+                                            <li>experience</li>
+                                            <li>reference</li>
+                                            <li>textbook</li>
+                                        </ul>
+                                    </div>
+                                    <div class="col-md-4">
+                                        <ul>
+
+                                            <li>dictionary</li>
+                                            <li>laptop</li>
+                                            <li>printer</li>
+                                            <li>student advisor</li>
+                                            <li>teamwork</li>
+                                            <li>module</li>
+                                            <li>topic</li>
+                                            <li>assessment</li>
+                                            <li>library</li>
+                                            <li>department</li>
+                                            <li>computer centre</li>
+                                            <li>classroom</li>
+                                            <li>lecture</li>
+                                            <li>tutor</li>
+                                            <li>main hall</li>
+                                            <li>attendance</li>
+                                        </ul>
+                                    </div>
+                                    <div class="embed-responsive embed-responsive-16by9">
+                                        <iframe width="560" height="315" src="https://www.youtube.com/embed/w4S8gzG-mfo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                    </div>
+                                </div>
                             </div>
                         </div>
+
                     </div>
 
                     <div class="card">
@@ -134,12 +204,12 @@
                                 </div>
                             </h5>
                         </div>
-
                         <div id="collapse3" class="collapse">
                             <div class="card-body">
                                 UNDER CONSTRUCTION
                             </div>
                         </div>
+
                     </div>
                 </div>
             </div>
