@@ -63,7 +63,7 @@ include "includes/head.php";
 
                         <a href="#dictation" style="background-color:#6666ff ;" class="btn btn-block  text-white">
                             <p class="lead"><i class="fas fa-check-circle"></i> Dictation </p>
-                        </a>>
+                        </a>
                     </div>
                     <div class="col-md-9">
                         <h1 class="text-primary pb-3 pt-5">
